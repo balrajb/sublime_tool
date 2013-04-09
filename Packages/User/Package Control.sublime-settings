@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Drupal",
+		"Drupal Project Autocomplete",
+		"Git",
+		"Goto Documentation",
+		"Goto Drupal API",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"TrailingSpaces",
+		"Whitespaces"
+	]
+}

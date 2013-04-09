@@ -1,0 +1,13 @@
+{
+  "sublimelinter_executable_map":
+    {
+        "php": "/usr/local/bin/php"
+    },
+  "sublimelinter_syntax_map":
+    {
+        "php": "php"
+    },
+  "sublimelinter_popup_errors_on_save": true,
+  "sublimelinter_fill_outlines": true,
+  "sublimelinter_gutter_marks": true
+}
